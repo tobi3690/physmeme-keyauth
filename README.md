@@ -1,7 +1,10 @@
 # physmeme-keyauth
 
 
-Based on: https://github.com/Splitx12/imxyviMapper
+Credit: https://github.com/Splitx12/imxyviMapper
+------
+
+
 Added keyauth authentication service: https://keyauth.win
 Keyauth github: https://github.com/KeyAuth/
 
